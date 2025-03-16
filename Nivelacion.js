@@ -51,5 +51,42 @@
 // })
 
 // Ejercicio 7:
+// let btn = document.querySelector(".btn");
+// let random;
 
-Math.floor((Math.random() * 10 )+ 1);
+// random = Math.floor((Math.random() * 10 )+ 1);
+
+// btn.addEventListener("click", () => {
+// let num = document.querySelector(".num").value
+//     if(num == random){
+//         console.log("Adivinaste!")
+//     }else if(num < random){
+//         console.log("El numero es mayor!")
+//     }else if(num > random){
+//         console.log("El numero es menor!")
+//     }
+// })
+
+// Ejercicio 8:
+// let btn = document.querySelector(".btn");
+
+// btn.addEventListener("click", () => {
+// let pal = document.querySelector(".pal").value
+//     function contarVocales(pal) {
+//         let contador = 0;
+//         let vocales = "aeiouAEIOU";
+
+//         for (let letra of pal) {
+//             if (vocales.includes(letra)) {
+//                 contador++;
+//             }
+//         }
+
+//         return contador;
+//     }
+//     let cantidadVocales = contarVocales(pal);
+
+//     console.log(`La palabra "${pal}" tiene ${cantidadVocales} vocales.`);
+// })
+
+// Ejercicio 9:
