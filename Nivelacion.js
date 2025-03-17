@@ -90,3 +90,47 @@
 // })
 
 // Ejercicio 9:
+// let btn = document.querySelector(".btn");
+
+// btn.addEventListener("click", () => {
+//     let pal = document.querySelector(".pal").value  
+//     function invertirCadena(pal) {
+
+//         let separarCadena = pal.split("");
+
+//         let invertirCadena = separarCadena.reverse();
+
+//         let unirCadena = invertirCadena.join("");
+
+//         return unirCadena;
+//     }
+     
+//     let palabraInvertida = invertirCadena(pal);
+
+//     console.log(palabraInvertida)
+// })
+
+// Ejercicio 10:
+// let btn = document.querySelector(".btn");
+
+// btn.addEventListener("click", () => {
+//     let pal = document.querySelector(".pal").value  
+//     function invertirCadena(pal) {
+
+//         let separarCadena = pal.split("");
+
+//         let invertirCadena = separarCadena.reverse();
+
+//         let unirCadena = invertirCadena.join("");
+
+//         return unirCadena;
+//     }
+     
+//     let palabraInvertida = invertirCadena(pal);
+
+//     if(palabraInvertida == pal){
+//         console.log("Tu palabra es un palíndromo")
+//     }else if (palabraInvertida != pal){
+//         console.log("Tu palabra no es un políndromo")
+//     }
+// })
